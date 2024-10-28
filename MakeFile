@@ -1,0 +1,3 @@
+shell.sh: main.c 
+	g++ main.c -o shell.sh
+
