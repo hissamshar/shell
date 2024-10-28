@@ -2,4 +2,4 @@
 
 # shell
 
-'Shell' refers to a program that provides a command-line interface for interacting with an operating system.
+`Shell` refers to a program that provides a command-line interface for interacting with an operating system.
